@@ -1,0 +1,5 @@
+placa: KDR-888,
+pasajeros: 4,
+modelo: sentra,
+marca: nissan,
+año: 2010
